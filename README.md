@@ -10,7 +10,7 @@ Euclides: calcula la distancia entre vectorX (datos obtenidos del formulario) co
 - Permite al usuario visualizar 6 formularios con los cuales se recolecta la información necesaria para aplicar Euclides
 - Muestra el resultado del algoritmo según la información recolectada y los datos de la Base de datos
 
-**MySQL:**
+**Postgresql:**
 
 - Almacena los datos necesarios para poder aplicar Euclides
 
